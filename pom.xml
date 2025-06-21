@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hospital</groupId>
-	<artifactId>Lab-4.02-Intro-to-Spring-Boot</artifactId>
+	<artifactId>Lab-4.02-Spring-Boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Lab-4.02-Intro-to-Spring-Boot</name>
+	<name>Lab-4.02-Spring-Boot</name>
 	<description>Lab 4 project for Spring Boot</description>
 	<url/>
 	<licenses>
